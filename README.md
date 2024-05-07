@@ -19,3 +19,4 @@ A curated list of awesome open source tools and commercial products for monitori
  * [ydata-quality](https://github.com/ydataai/ydata-quality): Data Quality assessment with one line of code.
  * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick): Visual analysis and diagnostic tools to facilitate machine learning model selection.
  * [Soda Core](https://github.com/sodadata/soda-core): Data profiling, testing, and monitoring for SQL accessible data.
+ * [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/articles/?readerUiPreview=1#!open-source-data-observability/data-observability-overview) - End to end Data Journey Observability plus data profiling, anomaly detection, and auto created data quality validation tests.  With UI. Apache 2.0 license
